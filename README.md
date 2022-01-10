@@ -11,4 +11,4 @@ have been implemented to create the application
 
 ### Link to the Walkthrough video
 
-Click [here](https://watch.screencastify.com/v/xLGPhTMwGDluHYQtKaw3) to see the walkthrough video.
+Click [here](https://watch.screencastify.com/v/iTUcHo0IUalBXu4zlJzG) to see the walkthrough video.
